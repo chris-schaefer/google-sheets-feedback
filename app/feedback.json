@@ -1,0 +1,20 @@
+{
+  "input": {
+    "sheet_name": "Template Input",
+    "topics_col": "B",
+    "rating_col": "C",
+    "comment_col": "D"
+  },
+  "results": {
+    "sheet_name": "Template Results",
+    "topics_col": "B",
+    "team_rating_mean_col": "C",
+    "team_rating_stddev_col": "D",
+    "oww_rating_col": "E",
+    "team_comment_col": "F"
+  },
+  "master_users": [
+    "admin1@example.com",
+    "admin2@example.com"
+  ]
+}
